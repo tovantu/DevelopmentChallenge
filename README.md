@@ -1,2 +1,2 @@
-# DevelopmentChallenge
-Development Challenge
+# Required:
+JDK 14
